@@ -1,0 +1,43 @@
+.App {
+    margin: 15px auto;
+    width: 1730px;
+}
+
+.globalCentered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test {
+    color: #DC143C;
+}
+
+/* .App {
+    display: grid;
+
+    grid-template-areas:
+    'h h'
+    's c'
+    'l c';
+
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-gap: 10px;
+}
+
+.header {
+    grid-area: h;
+}
+
+.selects {
+    grid-area: s;
+}
+
+.lists {
+    grid-area: l;
+}
+
+.content {
+    grid-area: c;
+} */
